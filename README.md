@@ -14,10 +14,13 @@ Back-end REST server: https://github.com/jsferrer1/myCollectionsApp-Server
 
 <img src="https://github.com/jsferrer1/myCollections-Ionic/blob/master/resources/gifs/myCollections-android.gif" alt="android"><br>
 
+Android [https://github.com/jsferrer1/myCollections-Ionic/blob/master/resources/gifs/myCollections-android.gif]
 
 ## Web
 
 <img src="https://github.com/jsferrer1/myCollectionsApp/blob/master/resources/gifs/myCollections-web.gif" alt="web"><br>
+
+Web [https://github.com/jsferrer1/myCollectionsApp/blob/master/resources/gifs/myCollections-web.gif]
 
 # Bluemix URL
 
